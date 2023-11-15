@@ -1,0 +1,4 @@
+com\chat\app\model\Comments.class
+com\chat\app\controller\UserController.class
+com\chat\app\userchatapp\UserChatAppApplication.class
+com\chat\app\model\User.class
